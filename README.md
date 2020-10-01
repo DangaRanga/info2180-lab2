@@ -1,2 +1,3 @@
-# info2180-lab2
-Lab 2 for the course INFO2180 - Dynamic Web Development I
+# INFO2180 Lab 2
+
+This is Lab 2 for Jason Gayle
